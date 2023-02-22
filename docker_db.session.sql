@@ -5,7 +5,7 @@ CREATE TABLE cats(
 );
 
 INSERT INTO cats (name, color) VALUES 
-('Murrrr', 'grey');
+('Murka', 'red');
 
 
 
